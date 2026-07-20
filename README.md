@@ -1,2 +1,2 @@
 # PingOnly
-Use ping to check reachable of hosts
+Use ping to check reachable of hosts.
